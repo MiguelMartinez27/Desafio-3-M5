@@ -17,10 +17,10 @@ Los datos para estas tablas se obtienen de archivos CSV proporcionados.
 ## Características
 a partir de esta base de datos podemos obtener:
 
--Descubrir las 100 películas más destacadas.
--Acceder a detalles de cada película (reparto, año de estreno, director).
--Utilizar funciónes de búsqueda avanzada con varios filtros.
--Consulta la información del elenco para cada película.
+- Descubrir las 100 películas más destacadas.
+- Acceder a detalles de cada película (reparto, año de estreno, director).
+- Utilizar funciónes de búsqueda avanzada con varios filtros.
+- Consulta la información del elenco para cada película.
 
 ## REQUISITOS
 
